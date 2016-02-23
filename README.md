@@ -1,4 +1,4 @@
-# PyNess
+# pyness
 A Python library for interacting with a Nessus scanner and parsing scan results.
 
 This package supports most of the useful API calls, including some wrapper
