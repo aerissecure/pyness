@@ -3,7 +3,7 @@ A Python library for interacting with a Nessus scanner and parsing scan results.
 
 This package supports most of the useful API calls, including some wrapper
 functions that are useful when automating tasks with a Nessus scanner. The
-`Report` object can be used to parse a scans Nessus v2 XML output that can be
+`Report` object can be used to parse a scan's Nessus v2 XML output that can be
 downloaded with this library. A parsed scan can then be interacted with as a
 normal python object instead of with the normal XML libraries.
 
